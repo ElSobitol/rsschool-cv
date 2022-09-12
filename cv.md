@@ -241,3 +241,23 @@ Participation:	Setting up on the site, with the inclusion of third-party service
 ## The projects can be found at the link below:
 
 https://www.behance.net/c4299cb7
+
+
+
+# Education
+
+## 2015
+
+__Gomel State University named after F. Skarina, Historian Faculty__ 
+* __Teacher of history__
+
+## 2017
+
+__ITSTEP Academy__
+* __Trainee/Junior Testing Engineer__
+
+## 2020
+
+__GeekBrains Mail.ru Group__
+
+* __Teacher of the basics of algorithmization__
