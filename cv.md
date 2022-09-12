@@ -9,8 +9,8 @@
   }
   </style>
 
+![мое фото](https://img.hhcdn.ru/photo/604426488.png?t=1662763805&h=mabIrhR-5aSok8LEebYTpg)
 
-<img src="https://img.hhcdn.ru/photo/604426488.png?t=1662763805&h=mabIrhR-5aSok8LEebYTpg">
 
  
 ## My name is Vitali Mayerau
