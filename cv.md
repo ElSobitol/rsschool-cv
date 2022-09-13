@@ -1,18 +1,8 @@
 # Personal Curriculum vitae
-<style>
-  img{
-    float:left;
-    text-align:left;
-    width: 190px;
-    height: 290px;
-    padding: 0 30px 0 0;
-  }
-  </style>
 
-![мое фото](https://img.hhcdn.ru/photo/604426488.png?t=1662763805&h=mabIrhR-5aSok8LEebYTpg)
+![мое фото](my_face.png)
 
 
- 
 ## My name is Vitali Mayerau
 
 * __29 years old__
