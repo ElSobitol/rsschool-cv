@@ -2,4 +2,5 @@
 
 ## My CV is available at the link below:
 
-https://elsobitol.github.io/rsschool-cv/cv
+https://elsobitol.github.io/rsschool-cv/
+
