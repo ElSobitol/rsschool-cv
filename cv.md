@@ -251,3 +251,9 @@ __ITSTEP Academy__
 __GeekBrains Mail.ru Group__
 
 * __Teacher of the basics of algorithmization__
+
+## from 2022 - will end in 2024 
+
+__SUKHOI STATE TECHNICAL UNIVERSITY OF GOMEL(GSTU), Upgrading and Retraining Institute__
+
+* __IT-Specialist, Web developer__
