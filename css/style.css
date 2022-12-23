@@ -1,0 +1,270 @@
+.page {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: "Roboto", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 30px;
+  font-weight: 400;
+  color: black;
+}
+body {
+  min-height: 100%;
+  margin: 0 auto;
+  padding: 0;
+}
+body a {
+  color: white;
+}
+body a:hover,
+body a:focus {
+  text-decoration: none;
+}
+body a:active {
+  color:rgba(255, 255, 255, 0.5);
+  text-decoration: underline;
+}
+.container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.section-title {
+  position: relative;
+  margin: 0;
+  margin-bottom: 36px;
+  padding-left: 60px;
+  font-size: 24px;
+  line-height: 36px;
+  font-weight: 600;
+}
+.section-title::before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 0;
+  width: 20px;
+  height: 36px;
+  background-color: green;
+}
+
+
+.nav a,
+.experience_title,
+.experience_title:after,
+.experience_item:hover .experience_image {
+  transition: all 0.3s ease 0s;
+}
+
+
+.header {
+  width: 100%;
+  height: 50px;
+  background-color: green;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.menuplus {
+  display: none;
+}
+.nav__list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.nav a {
+  padding: 14px 10px;
+  line-height: 50px;
+  color: white;
+  text-decoration: none;
+}
+.nav a:hover {
+  color: orange;
+}
+.nav a:active {
+  color: white;
+  text-decoration: none;
+}
+
+
+.first-side {
+  width: 100%;
+  color: white;
+  
+}
+.figure--first-side {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: min-content;
+  background-color: #343945;
+}
+.image {
+  width: 100%;
+  object-fit: cover;
+}
+.first-side .section-title {
+  background-color: rgba(255, 255, 255, 0.1);
+} 
+
+.data-info {
+  padding: 44px 0px 54px 0px;
+  background-color: orange;
+}
+.data-info_list {
+  list-style: none;
+  margin: 0;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 0;
+}
+.data-info_item {
+  margin-bottom: 25px;
+}
+.data-info_item:last-child {
+  margin-bottom: 0;
+}
+.data-info_item a {
+  display: block;
+}
+
+
+.learning {
+  padding: 54px 0px 54px 0px;
+}
+.learning_list {
+  margin: 0;
+  margin-left: 60px;
+  margin-right: 60px;
+  padding: 0;
+  list-style: none;
+}
+.learning_item {
+  margin-bottom: 25px;
+}
+.learning_item:last-child {
+  margin-bottom: 0;
+}
+
+.main_side .section-title {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.figure--main_side {
+  display: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: min-content;
+}
+.main_side_title {
+  margin: 125px 80px 125px 60px;
+}
+.aboutme_title {
+  margin: 0;
+  padding: 0;
+  font-size: 50px;
+  line-height: 50px;
+  font-weight: 600;
+}
+.main_side_title p {
+  font-size: 20px;
+}
+
+
+.personal-info {
+  padding: 0;
+  margin-bottom: 54px;
+}
+.personal-info p {
+  margin: 0 60px 0 60px;
+  padding: 0;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.expertise {
+  margin-bottom: 54px;
+}
+.expertise_item_list {
+  margin: 0px 60px;
+  padding: 0;
+  padding-left: 20px;
+}
+
+
+
+.examples {
+  width: 100%;
+  margin-bottom: 34px;
+}
+.examples details {
+  margin: 0px 60px;
+  cursor: pointer;
+}
+.examples pre {
+  margin: 0;
+  padding: 0;
+  font-size: 10px;
+  line-height: 14px;
+}
+.examples summary {
+  text-decoration: underline;
+}
+.examples summary:hover {
+  text-decoration: none;
+}
+
+.experience {
+  padding: 44px 0px 54px 0px;
+  background-color: orange;
+}
+
+h2,h3{
+  margin: 0 20px 0 20px;
+}
+.experience li {
+  margin: 0 20px 0 20px;
+
+}
+.completed{
+  width: 100%;
+  margin-bottom: 34px;
+}
+
+.complete{
+  color: #000;
+}
+
+.footer {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  padding: 20px 60px 20px 60px;
+  color: white;
+  background-color: green;
+}
+.fr_git {
+  position: relative;
+  padding-left: 40px;
+}
+.fr_git::before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 0;
+  width: 32px;
+  height: 32px;
+  background-image: url("https://cdn-icons-png.flaticon.com/512/25/25231.png");
+  background-repeat: no-repeat;
+  background-position: 0 0;
+}
+.fr_year {
+  justify-self: center;
+}
+.fr_rsschool {
+  justify-self: end;
+  height: 32px;
+}
